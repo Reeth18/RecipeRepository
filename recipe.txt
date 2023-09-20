@@ -1,0 +1,22 @@
+3. Contributor Guidelines:
+ - Clearly outline the steps for contributing recipes:
+ - Fork the main repository to a contributor's GitHub account.
+ - Create a new branch for the recipe (e.g., "recipe/chocolate-chip-cookies").
+ - Write the recipe in a Markdown file.
+ - Optionally, add relevant images to the recipe folder.
+ - Submit a pull request to the main repository for review and inclusion.
+You can include these guidelines in the README file, or create a separate CONTRIBUTING.md file.
+4. Recipe Submission:
+
+Encourage users to submit recipes following the contributor guidelines.
+
+Review submitted pull requests to ensure recipe quality and adherence to guidelines.
+
+Merge accepted recipes into the main repository.
+
+5. Version Control and Collaboration:
+
+Use Git features (branches, pull requests, commits) to manage changes and track the history of each recipe.
+
+Encourage collaboration by allowing users to suggest improvements to existing recipes through pull requests.
+
